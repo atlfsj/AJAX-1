@@ -2,5 +2,5 @@
 <message>
     <warning>
         Hello World
-    <!--missing </warning> -->
+    </warning>
 </message>
